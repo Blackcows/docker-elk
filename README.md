@@ -1,5 +1,7 @@
 # docker-elk
-Docker 기반의 ELK docker compose
+Docker 기반의 ELK docker compose 실습 
+
+(from 2022-2023 CNU 쿠버네티스 & MSA 특강)
 
 # docker compose 실행
 1. docker-compose 버전 확인
